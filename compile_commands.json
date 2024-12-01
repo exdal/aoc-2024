@@ -1,0 +1,21 @@
+[
+{
+  "directory": "/home/emirhan/repos/aoc",
+  "arguments": ["/sbin/clang-18", "-c", "-Qunused-arguments", "-m64", "-stdlib=libc++", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++23", "-stdlib=libc++", "-cxx-isystem/usr/include/c++/v1/include/c++/v1", "-Isrc", "-include", "src/common.hh", "-DNDEBUG", "-o", "build/.objs/day1/linux/x86_64/release/src/sol/day1.cc.o", "src/sol/day1.cc"],
+  "file": "src/sol/day1.cc"
+},
+{
+  "directory": "/home/emirhan/repos/aoc",
+  "arguments": ["/sbin/clang-18", "-c", "-Qunused-arguments", "-m64", "-stdlib=libc++", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++23", "-stdlib=libc++", "-cxx-isystem/usr/include/c++/v1/include/c++/v1", "-Isrc", "-include", "src/common.hh", "-DNDEBUG", "-o", "build/.objs/base/linux/x86_64/release/src/file.cc.o", "src/file.cc"],
+  "file": "src/file.cc"
+},
+{
+  "directory": "/home/emirhan/repos/aoc",
+  "arguments": ["/sbin/clang-18", "-c", "-Qunused-arguments", "-m64", "-stdlib=libc++", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++23", "-stdlib=libc++", "-cxx-isystem/usr/include/c++/v1/include/c++/v1", "-Isrc", "-include", "src/common.hh", "-DNDEBUG", "-o", "build/.objs/base/linux/x86_64/release/src/os.cc.o", "src/os.cc"],
+  "file": "src/os.cc"
+},
+{
+  "directory": "/home/emirhan/repos/aoc",
+  "arguments": ["/sbin/clang-18", "-c", "-Qunused-arguments", "-m64", "-stdlib=libc++", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++23", "-stdlib=libc++", "-cxx-isystem/usr/include/c++/v1/include/c++/v1", "-Isrc", "-include", "src/common.hh", "-DNDEBUG", "-o", "build/.objs/base/linux/x86_64/release/src/stack.cc.o", "src/stack.cc"],
+  "file": "src/stack.cc"
+}]
